@@ -1,0 +1,13 @@
+<!-- 文件名：2025-report.html -->
+<html>
+  <head>
+    <title>2025 销售报告</title>
+    <meta property="og:title" content="📊 2025年第一季度销售报告" />
+    <meta property="og:description" content="点击查看公司销售简报。" />
+    <meta property="og:image" content="https://yourcdn.com/images/report-thumb.jpg" />
+    <meta http-equiv="refresh" content="1;url=https://intranet.yourcompany.com/files/2025-报告.pdf" />
+  </head>
+  <body>
+    <p>正在跳转，请稍候...</p>
+  </body>
+</html>
